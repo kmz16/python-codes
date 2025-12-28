@@ -1,0 +1,25 @@
+a=input("one name ?")
+b=input("two name ?")
+c=input("three name?")
+e=(" and")
+d=( a + b + c + e)
+k=( a + b + c)
+print(d)
+
+f=(2025)
+g=float(str(input("you born? ")))
+h=int( f - g )
+print(f" you age is {h}")
+
+i=input("you mother name?")
+j=input("you father name?")
+print(f"mother is {i}")
+print(f"father is {j}")
+
+print(f" parent name is {i} and {j}" )
+print(f"you name is {k}")
+print(f"you born is {g}")
+print(f"you age is {h}")
+
+u=input("you are okey?")
+print(f"{u} oh thanks you all!")
