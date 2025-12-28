@@ -1,3 +1,4 @@
+print("welcome calcator stort")
 m=float(input("one code "))
 k=float(input("two code "))
 
