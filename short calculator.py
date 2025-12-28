@@ -1,5 +1,5 @@
-m=float(input("one code"))
-k=float(input("two code"))
+m=float(input("one code "))
+k=float(input("two code "))
 
 a=str(m+k)
 b=str(m+k)
